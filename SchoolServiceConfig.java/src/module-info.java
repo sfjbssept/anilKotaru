@@ -1,0 +1,2 @@
+module SchoolServiceConfig.java {
+}
